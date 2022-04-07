@@ -2,7 +2,7 @@
 Reto. Describe el proceso en que se computa las siguientes fórmulas.
 
 X = (18/9 * 2 + 16) – ( 5 * 4 – 3^3)
-
+ se realiza el primer parentesis , dentro del perentesis realizamos la primera división , 18/9 =2 , luego se realiza la multiplica 2 2=4 , y al final se realiza la suma 4+16 =20, ahora realizamos las operaciones dentro del segundo parentesis , primero realizamos la multiplicaicon 5 4=20 , luego la potencia 3^3=27, y realizamos la resta 20-27 =-7 , ahora realizamos la última resta de los parentesis (20)-(-7)= 27
 X = (5 + 2 * 4) – (25 +. 5)2
 
 X = (100/5^2 + 1) + 11 * 3
