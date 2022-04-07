@@ -7,10 +7,11 @@ X = (18/9 * 2 + 16) – ( 5 * 4 – 3^3)
 X = (5 + 2 * 4) – (25 +. 5)2
 se realiza el primer parentesis , dentro del parentesis hay dos operaciones una suma y una multiplicacion , relalizamos la  multiplicacion 2*4= 8 y luego la suma  5+8=13 , resolvemos el segundo parentesis 25+5=30 y luego realizamos la multiplicacion 30*2 =60 y realizamos la  resta 13-30=-47
 
-
 X = (100/5^2 + 1) + 11 * 3
 htrh rth 
 X = ((8-6)^2*3)^3.
+
+X= ((8+5)*4)* (10-6)/4)
 
 
 ## OPERADORES RELACIONALES
