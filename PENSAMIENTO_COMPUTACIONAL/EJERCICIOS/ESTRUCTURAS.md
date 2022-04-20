@@ -3,6 +3,20 @@
 
 * Programa que pida un número y diga si es positivo o negativo
 * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
+### ejercicio
+* inicio algoritmo
+* declaro variables (letra)
+* imprimir "ingrese el una letra"
+* asignar a letra
+* si letra==s imprimir "letra vadida"
+* si no , si letra == n "imprimir letra valida"
+*         sino imprimir "letra invalida"
+* fin algoritmo
+
+
+![image](https://user-images.githubusercontent.com/103066682/164293094-96b64d88-f7f5-4450-9f49-c491ce5006c7.png)
+
+
 * Un programa que pida una letra y detecte si es una vocal. 
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
