@@ -8,13 +8,14 @@
 * declaro variables (letra)
 * imprimir "ingrese el una letra"
 * asignar a letra
-* si letra==s imprimir "letra vadida"
-* si no , si letra == n "imprimir letra valida"
+* si letra=s O letra= S imprimir "letra vadida"
+* si no , si letra = n O letra = N "imprimir letra valida"
 *         sino imprimir "letra invalida"
 * fin algoritmo
 
 
-![image](https://user-images.githubusercontent.com/103066682/164293094-96b64d88-f7f5-4450-9f49-c491ce5006c7.png)
+![image](https://user-images.githubusercontent.com/103066682/164296149-62d0ffa5-9acc-4b93-a12e-f78d908610f4.png)
+
 
 
 * Un programa que pida una letra y detecte si es una vocal. 
