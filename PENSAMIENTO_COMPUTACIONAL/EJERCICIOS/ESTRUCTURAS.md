@@ -46,7 +46,7 @@
   
   
   
-si num1<num Y num<num3
+si num1<num2 Y num1<num3
   entonces si num2<num3
             entonces mostar num1,num2,num3
            sino mostrar num1, num3,num2
