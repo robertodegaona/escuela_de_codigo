@@ -22,31 +22,16 @@
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 ### ejercicio
   * inicio algoritmo
-  * declaro variables (num1,num2,num3,primero,segundo,tercero)
+  * declaro variables (num1,num2,num3)
   * imprimir " ingresa un numero"
   * asignar a num1
   * imprimir " ingresa otro numero"
   * asignar a num2
   * imprimir " ingresa otro numero"
   * asignar a num3
-  * si num1<num2 y num1<num3 entonces asignar a primero
-  * sino, si num1<num2 y num1>num3 entonces asignar a segundo
-  *       sino, si num1>num2 y num1>num3 entonces asignar a tercero
-  *         sino, si num2<num1 y num2<num3 entonces asignar a primero
-                 sino, si num2>num3 y num2<1 entonces asignar a segundo
-                     sino, si num2>3 y num2>3 entonces asiganar a tercero
-                        sino, si num3<num1 y num3<num2 entonces asignar a primero
-                          sino, si num3>num2 y num3<num1 entonces asignar a segundo
-                               sino, si num3>num2 y num3>num1 entonces asignar a tercero
-                                 sino imprimir no ingresaste numero
-   fin proceso
-  imprimir primero segundo tercero
-  fin algoritmo
-
+  * 
   
-  
-  
-si num1<num2 Y num1<num3
+  si num1<num2 Y num1<num3
   entonces si num2<num3
             entonces mostar num1,num2,num3
            sino mostrar num1, num3,num2
@@ -66,6 +51,8 @@ sino
              mostar num3,num2,num2
     sino
       mostar "numero repetido"
+      fin si
+    fin algoritmo
   
   
 
