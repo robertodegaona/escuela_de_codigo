@@ -57,5 +57,34 @@ sino
   
 
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
+### ejercicio
+* inicio algoritmo
+* declaro variables (mes)
+* imprimir "ingresa un numero"
+* asignar a mes
+* caso (mes)
+  * 1 mostrar enero
+  * 2 mostrar febrero
+  * 3 mostrar marzo
+  * 4 mostrar abril
+  * 5 mostrar mayo
+  * 6 mostrar junio
+  * 7 mostrar julio
+  * 8 mostrar agosto
+  * 9 mostrar septiembre
+  * 10 mostrar octubre
+  * 11 mostrar noviembre
+  * 12 mostrar diciembre
+  * ? mostrar caracter invalido
+  * fin caso
+ * fin algoritmo
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/103066682/164526240-02bb29af-2117-465a-8b54-f2ac1975b29a.png)
+
+
+
+
+
 * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
 * Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variables.
