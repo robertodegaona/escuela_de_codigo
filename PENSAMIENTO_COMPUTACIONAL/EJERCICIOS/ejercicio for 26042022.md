@@ -22,14 +22,14 @@
 un programa que sume el costo de los productos hasta que el usuario precione "0" y si ingresa numeros negativos que salga un mensaje de cantidad invalida 
 
 *inicio algoritmo
-* declarar variables (num, sum)
+* declarar variables (num, sum,num2)
 * imprimir " ingresa un numero"
 * asignar a num
 * si num<=0 entonces
 *    escribir "numero invalido"
 *sino   
         mientras  num no sea 0 hacer
-*       suma= suma+num
+*       suma= suma+num2
 *       escribir "ingresa otro numero"
 *       escribir "presiona 0 para terminar"
 *       fin mientras
