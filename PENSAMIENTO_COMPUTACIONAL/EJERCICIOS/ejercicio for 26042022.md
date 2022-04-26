@@ -16,3 +16,22 @@
 *  fin para
 *  mostrasr ("la suma de tus negativos es" suma,","," ", "el promedio de tus positivos es", " ", prom, 
 *           
+
+
+### segundo ejercicio
+un programa que sume el costo de los productos hasta que el usuario precione "0" y si ingresa numeros negativos que salga un mensaje de cantidad invalida 
+
+*inicio algoritmo
+* declarar variables (num, sum)
+* imprimir " ingresa un numero"
+* asignar a num
+* si num<=0 entonces
+*    escribir "numero invalido"
+*sino   
+        mientras  num no sea 0 hacer
+*       suma= suma+num
+*       escribir "ingresa otro numero"
+*       escribir "presiona 0 para terminar"
+*       fin mientras
+* fin si
+* escribir "la suma de tus productos es" suma
