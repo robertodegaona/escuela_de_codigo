@@ -25,13 +25,13 @@ un programa que sume el costo de los productos hasta que el usuario precione "0"
 * declarar variables (num, sum,num2)
 * imprimir " ingresa un numero"
 * asignar a num
-* si num<=0 entonces
-*    escribir "numero invalido"
-*sino   
-        mientras  num no sea 0 hacer
-*       suma= suma+num2
-*       escribir "ingresa otro numero"
-*       escribir "presiona 0 para terminar"
-*       fin mientras
-* fin si
+* mientras num sea diferente de 0 
+*       hacer
+*       sum=sum+num2
+*       imprimir "ingresa otro numero o preciona 0 para continuar"
+*       leer num
+*       si num<=-1 entonces
+*         imprimir "numero invalido"
+*       sino
+*       num2=num
 * escribir "la suma de tus productos es" suma
