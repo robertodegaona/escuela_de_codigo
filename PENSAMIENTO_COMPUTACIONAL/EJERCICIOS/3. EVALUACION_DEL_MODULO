@@ -3,9 +3,9 @@ Diseña un algoritmo representándolo en Diagrama de Flujo y Pseudocódigo para 
 y el mensaje REPROBADO en caso contrario, considere además el siguiente requisito adicional que la nota debe cumplir: debe estar dentro del rango 1,0 a 7,0.
 
 ## programa
-* inicio algoritmo
-* calif
-* si calif<=7 y calif>=1 entonces
+*inicio algoritmo
+*calif
+*si calif<=7 y calif>=1 entonces
     si calif>=4 entonces
      imprimir "APROBADO"
      sino
@@ -14,9 +14,7 @@ y el mensaje REPROBADO en caso contrario, considere además el siguiente requisi
    sino 
      imprimir "calificacion fuera de rango"
     fin si
-  * fin algoritmo  
-  
-  
+*finalgoritmo  
 
 
 
